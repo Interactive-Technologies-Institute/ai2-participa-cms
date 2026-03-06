@@ -28,7 +28,7 @@ backend:
   name: github
   repo: Interactive-Technologies-Institute/ai2-participa
   branch: main
-  # base_url: https://YOUR-AUTH-WORKER.workers.dev  # ← Uncomment for production (Option B)
+  base_url: https://sveltia-cms-auth.nunojnunes.workers.dev  # ← Uncomment for production (Option B)
 
 media_folder: static/images
 public_folder: /images
