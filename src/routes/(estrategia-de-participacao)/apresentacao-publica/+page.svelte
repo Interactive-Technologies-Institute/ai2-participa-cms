@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { base } from '$app/paths';
 	import PageHeader from '$lib/components/page-header.svelte';
 	import { getLang, t } from '$lib/i18n.svelte';
 	import { parseMarkdown } from '$lib/markdown';
@@ -7,7 +6,7 @@
 
 	type Lang = 'pt' | 'en';
 	let pageContent = $derived(content[getLang() as Lang]);
-	let body = $derived(parseMarkdown(pageContent.body || content.pt.body, base));
+	let body = $derived(parseMarkdown(pageContent.body || content.pt.body));
 </script>
 
 <PageHeader title={t('page.publicPresentation.title')} />
