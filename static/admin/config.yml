@@ -26,7 +26,7 @@
 
 backend:
   name: github
-  repo: Interactive-Technologies-Institute/ai2-participa
+  repo: Interactive-Technologies-Institute/ai2-participa-cms
   branch: main
   base_url: https://sveltia-cms-auth.nunojnunes.workers.dev  # ← Uncomment for production (Option B)
 
