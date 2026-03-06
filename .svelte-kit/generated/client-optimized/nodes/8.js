@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/(estrategia-de-participacao)/participacao-publica/+page.svelte";

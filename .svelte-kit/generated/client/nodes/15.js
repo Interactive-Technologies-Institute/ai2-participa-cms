@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/(sobre-a-equipa)/equipa-peritos/+page.svelte";

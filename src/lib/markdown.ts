@@ -1,4 +1,4 @@
-import { marked, Marked } from 'marked';
+import { marked } from 'marked';
 
 marked.use({ gfm: true });
 
@@ -9,22 +9,8 @@ marked.use({ gfm: true });
  * Content comes from trusted CMS editors, so no sanitisation is applied.
  */
 export function parseMarkdown(src: string, base = ''): string {
-	if (!base) {
-		return marked.parse(src) as string;
-	}
-
-	const m = new Marked({ gfm: true });
-	m.use({
-		walkTokens(token) {
-			if (
-				(token.type === 'link' || token.type === 'image') &&
-				typeof token.href === 'string' &&
-				token.href.startsWith('/') &&
-				!token.href.startsWith('//')
-			) {
-				token.href = base + token.href;
-			}
-		}
-	});
-	return m.parse(src) as string;
+	const html = marked.parse(src) as string;
+	if (!base) return html;
+	// Prefix every absolute href (starting with / but not //) with the base path.
+	return html.replace(/href="(\/(?!\/)[^"]*)"/g, `href="${base}$1"`);
 }

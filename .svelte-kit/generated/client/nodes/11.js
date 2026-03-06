@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/(o-que-e)/legislacao-nacional/+page.svelte";
