@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(o-que-e)/metodologia-avaliacao-estrategica-ai2/+page.svelte";

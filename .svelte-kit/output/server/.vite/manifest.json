@@ -1,0 +1,401 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_root.js",
+      "_environment.js",
+      "_server.js",
+      "_internal.js"
+    ]
+  },
+  "_avatar-fallback.js": {
+    "file": "chunks/avatar-fallback.js",
+    "name": "avatar-fallback",
+    "imports": [
+      "_index.js",
+      "_utils2.js",
+      "_create-id.js"
+    ]
+  },
+  "_button.js": {
+    "file": "chunks/button.js",
+    "name": "button",
+    "imports": [
+      "_index.js",
+      "_utils2.js"
+    ]
+  },
+  "_create-id.js": {
+    "file": "chunks/create-id.js",
+    "name": "create-id",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "_environment.js": {
+    "file": "chunks/environment.js",
+    "name": "environment"
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports",
+    "imports": [
+      "_index.js",
+      "_root.js"
+    ]
+  },
+  "_false.js": {
+    "file": "chunks/false.js",
+    "name": "false"
+  },
+  "_i18n.svelte.js": {
+    "file": "chunks/i18n.svelte.js",
+    "name": "i18n.svelte"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index"
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_root.js",
+      "_environment.js",
+      "_server.js"
+    ]
+  },
+  "_logo.js": {
+    "file": "chunks/logo.js",
+    "name": "logo",
+    "imports": [
+      "_index.js",
+      "_server.js",
+      "_url.js",
+      "_root.js"
+    ]
+  },
+  "_markdown.js": {
+    "file": "chunks/markdown.js",
+    "name": "markdown"
+  },
+  "_page-header.js": {
+    "file": "chunks/page-header.js",
+    "name": "page-header",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "_root.js": {
+    "file": "chunks/root.js",
+    "name": "root",
+    "imports": [
+      "_index.js",
+      "_false.js"
+    ]
+  },
+  "_routing.js": {
+    "file": "chunks/routing.js",
+    "name": "routing",
+    "imports": [
+      "_url.js"
+    ]
+  },
+  "_server.js": {
+    "file": "chunks/server.js",
+    "name": "server"
+  },
+  "_server2.js": {
+    "file": "chunks/server2.js",
+    "name": "server",
+    "imports": [
+      "_server.js",
+      "_routing.js",
+      "_url.js",
+      "_root.js"
+    ]
+  },
+  "_shared.js": {
+    "file": "chunks/shared.js",
+    "name": "shared",
+    "imports": [
+      "_utils.js"
+    ]
+  },
+  "_url.js": {
+    "file": "chunks/url.js",
+    "name": "url"
+  },
+  "_utils.js": {
+    "file": "chunks/utils.js",
+    "name": "utils"
+  },
+  "_utils2.js": {
+    "file": "chunks/utils2.js",
+    "name": "utils"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/app/server/remote/index.js": {
+    "file": "remote-entry.js",
+    "name": "remote-entry",
+    "src": "node_modules/@sveltejs/kit/src/runtime/app/server/remote/index.js",
+    "isEntry": true,
+    "imports": [
+      "_shared.js",
+      "_false.js",
+      "_server.js",
+      "_environment.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/svelte-5/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "name": "entries/fallbacks/error.svelte",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/svelte-5/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_url.js",
+      "_root.js",
+      "_utils.js",
+      "_exports.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_false.js",
+      "_server.js",
+      "_shared.js",
+      "_url.js",
+      "_utils.js",
+      "_exports.js",
+      "_internal.js",
+      "_routing.js"
+    ]
+  },
+  "src/routes/(estrategia-de-participacao)/apresentacao-publica/+page.svelte": {
+    "file": "entries/pages/(estrategia-de-participacao)/apresentacao-publica/_page.svelte.js",
+    "name": "entries/pages/(estrategia-de-participacao)/apresentacao-publica/_page.svelte",
+    "src": "src/routes/(estrategia-de-participacao)/apresentacao-publica/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_server.js",
+      "_url.js",
+      "_root.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(estrategia-de-participacao)/comissao-acompanhamento/+page.svelte": {
+    "file": "entries/pages/(estrategia-de-participacao)/comissao-acompanhamento/_page.svelte.js",
+    "name": "entries/pages/(estrategia-de-participacao)/comissao-acompanhamento/_page.svelte",
+    "src": "src/routes/(estrategia-de-participacao)/comissao-acompanhamento/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(estrategia-de-participacao)/iniciativas-bottom-up/+page.svelte": {
+    "file": "entries/pages/(estrategia-de-participacao)/iniciativas-bottom-up/_page.svelte.js",
+    "name": "entries/pages/(estrategia-de-participacao)/iniciativas-bottom-up/_page.svelte",
+    "src": "src/routes/(estrategia-de-participacao)/iniciativas-bottom-up/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(estrategia-de-participacao)/mesas-tematicas/+page.svelte": {
+    "file": "entries/pages/(estrategia-de-participacao)/mesas-tematicas/_page.svelte.js",
+    "name": "entries/pages/(estrategia-de-participacao)/mesas-tematicas/_page.svelte",
+    "src": "src/routes/(estrategia-de-participacao)/mesas-tematicas/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(estrategia-de-participacao)/metodologia-participacao-publica/+page.svelte": {
+    "file": "entries/pages/(estrategia-de-participacao)/metodologia-participacao-publica/_page.svelte.js",
+    "name": "entries/pages/(estrategia-de-participacao)/metodologia-participacao-publica/_page.svelte",
+    "src": "src/routes/(estrategia-de-participacao)/metodologia-participacao-publica/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(estrategia-de-participacao)/participacao-publica/+page.svelte": {
+    "file": "entries/pages/(estrategia-de-participacao)/participacao-publica/_page.svelte.js",
+    "name": "entries/pages/(estrategia-de-participacao)/participacao-publica/_page.svelte",
+    "src": "src/routes/(estrategia-de-participacao)/participacao-publica/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(estrategia-de-participacao)/reunioes-entidades/+page.svelte": {
+    "file": "entries/pages/(estrategia-de-participacao)/reunioes-entidades/_page.svelte.js",
+    "name": "entries/pages/(estrategia-de-participacao)/reunioes-entidades/_page.svelte",
+    "src": "src/routes/(estrategia-de-participacao)/reunioes-entidades/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(estrategia-de-participacao)/workshops-descentralizados/+page.svelte": {
+    "file": "entries/pages/(estrategia-de-participacao)/workshops-descentralizados/_page.svelte.js",
+    "name": "entries/pages/(estrategia-de-participacao)/workshops-descentralizados/_page.svelte",
+    "src": "src/routes/(estrategia-de-participacao)/workshops-descentralizados/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(o-que-e)/legislacao-nacional/+page.svelte": {
+    "file": "entries/pages/(o-que-e)/legislacao-nacional/_page.svelte.js",
+    "name": "entries/pages/(o-que-e)/legislacao-nacional/_page.svelte",
+    "src": "src/routes/(o-que-e)/legislacao-nacional/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(o-que-e)/metodologia-avaliacao-estrategica-ai2/+page.svelte": {
+    "file": "entries/pages/(o-que-e)/metodologia-avaliacao-estrategica-ai2/_page.svelte.js",
+    "name": "entries/pages/(o-que-e)/metodologia-avaliacao-estrategica-ai2/_page.svelte",
+    "src": "src/routes/(o-que-e)/metodologia-avaliacao-estrategica-ai2/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_server2.js",
+      "_page-header.js",
+      "_button.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(o-que-e)/metodologia-st4s/+page.svelte": {
+    "file": "entries/pages/(o-que-e)/metodologia-st4s/_page.svelte.js",
+    "name": "entries/pages/(o-que-e)/metodologia-st4s/_page.svelte",
+    "src": "src/routes/(o-que-e)/metodologia-st4s/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_server2.js",
+      "_page-header.js",
+      "_button.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(sobre-a-equipa)/coordenacao/+page.svelte": {
+    "file": "entries/pages/(sobre-a-equipa)/coordenacao/_page.svelte.js",
+    "name": "entries/pages/(sobre-a-equipa)/coordenacao/_page.svelte",
+    "src": "src/routes/(sobre-a-equipa)/coordenacao/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_server2.js",
+      "_page-header.js",
+      "_avatar-fallback.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/(sobre-a-equipa)/equipa-peritos/+page.svelte": {
+    "file": "entries/pages/(sobre-a-equipa)/equipa-peritos/_page.svelte.js",
+    "name": "entries/pages/(sobre-a-equipa)/equipa-peritos/_page.svelte",
+    "src": "src/routes/(sobre-a-equipa)/equipa-peritos/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_server2.js",
+      "_page-header.js",
+      "_avatar-fallback.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_server2.js",
+      "_button.js",
+      "_utils2.js",
+      "_create-id.js",
+      "_i18n.svelte.js",
+      "_logo.js",
+      "_root.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.Bb84Arrx.css"
+    ]
+  },
+  "src/routes/+layout.ts": {
+    "file": "entries/pages/_layout.ts.js",
+    "name": "entries/pages/_layout.ts",
+    "src": "src/routes/+layout.ts",
+    "isEntry": true
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_logo.js",
+      "_button.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  },
+  "src/routes/relatorios/+page.svelte": {
+    "file": "entries/pages/relatorios/_page.svelte.js",
+    "name": "entries/pages/relatorios/_page.svelte",
+    "src": "src/routes/relatorios/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index.js",
+      "_server.js",
+      "_url.js",
+      "_root.js",
+      "_page-header.js",
+      "_i18n.svelte.js",
+      "_markdown.js"
+    ]
+  }
+}

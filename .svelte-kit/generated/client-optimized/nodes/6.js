@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/(estrategia-de-participacao)/mesas-tematicas/+page.svelte";
