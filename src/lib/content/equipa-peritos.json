@@ -1,6 +1,6 @@
 {
   "pt": {
-    "intro": "A Avaliação Estratégica da AI² é apoiada por uma equipa de peritos provenientes da FCT e da ANI que irão contribuir para realizar diagnósticos estratégicos, análises de tendências e avaliação de opções estratégicas, bem como facilitação de mesas temáticas.\n\nCoordenados pela Professora Maria do Rosário Partidário, os peritos estão organizados por temas-chave da Avaliação Estratégica:",
+    "intro": "A Avaliação Estratégica da AI² é apoiada por uma equipa de peritos da FCT e da ANI, coordenada pela Professora Maria do Rosário Partidário.\n\n Esta equipa irá contribuir para a realização de diagnósticos estratégicos, análises de tendências, avaliação de opções estratégicas, bem como para a facilitação de mesas temáticas. Os peritos estão organizados por temas-chave da Avaliação Estratégica, com os seguintes coordenadores:",
     "section_titles": [
       "Desafios societais e necessidades de investigação e inovação",
       "Governança e ecossistema de investigação e inovação",
@@ -11,7 +11,7 @@
     ]
   },
   "en": {
-    "intro": "The AI² Strategic Assessment is supported by a team of experts from the National Innovation Agency, S. A. (ANI) and the Foundation for Science and Technology, I. P. (FCT) who will contribute to strategic diagnoses, trend analyses and assessment of strategic options, as well as facilitation of thematic roundtables.\n\nCoordinated by Professor Maria do Rosário Partidário, the experts are organised by key themes of the Strategic Assessment:",
+    "intro": "The AI² Strategic Assessment is supported by a team of experts from the National Innovation Agency, S. A. (ANI) and the Foundation for Science and Technology, I. P. (FCT), coordinated by Professor Maria do Rosário Partidário.\n\n This team will contribute to strategic diagnoses, trend analyses and assessment of strategic options, as well as facilitation of thematic roundtables.",
     "section_titles": [
       "Societal challenges and research and innovation needs",
       "Governance and research and innovation ecosystem",
@@ -24,53 +24,38 @@
   "sections": [
     {
       "people": [
-        { "name": "Ana Quartin (FCT)", "image": "/images/ana-quartin.jpg" },
-        { "name": "Artur Santoalha (ANI) - coordenador", "image": "/images/artur-santoalha.jpg" },
-        { "name": "Dina Carrilho (FCT)", "image": "/images/diana-carrilho.jpg" },
-        { "name": "Margarida Prado (FCT)", "image": "/images/margarida-prado.jpg" },
-        { "name": "Marta Norton (FCT) - coordenadora", "image": "/images/marta-norton.jpg" }
+        { "name": "Artur Santoalha (ANI)", "image": "/images/artur-santoalha.jpg" },
+        { "name": "Marta Norton (FCT)", "image": "/images/marta-norton.jpg" }
       ]
     },
     {
       "people": [
-        { "name": "António Bob Santos (FCT)", "image": "/images/antonio-bob-santos.jpg" },
-        { "name": "Bruno Béu (FCT) - coordenador", "image": "/images/bruno-beu.jpg" },
-        { "name": "Cristiana Leandro (ANI) - coordenadora", "image": "/images/cristiana-leandro.jpg" },
+        { "name": "Bruno Béu (FCT)", "image": "/images/bruno-beu.jpg" },
+        { "name": "Cristiana Leandro (ANI)", "image": "/images/cristiana-leandro.jpg" }
+      ]
+    },
+    {
+      "people": [
+        { "name": "João Ribau (ANI)", "image": "/images/joao-ricau.jpg" },
+        { "name": "Pedro Leite (FCT)", "image": "/images/pedro-leite.jpg" }
+      ]
+    },
+    {
+      "people": [
+        { "name": "João Ferreira (ANI)", "image": "/images/joao-lobo-ferreira.jpg" },
         { "name": "Rui Munhá (FCT)", "image": "/images/rui-munha.jpg" }
       ]
     },
     {
       "people": [
-        { "name": "Bruno Béu (FCT) - coordenador", "image": "/images/bruno-beu.jpg" },
-        { "name": "João Ribau (ANI) - coordenador", "image": "/images/joao-ricau.jpg" },
-        { "name": "Luís Ascenção (FCT)", "image": "/images/luis-ascencao.jpg" },
-        { "name": "Nanete Sousa (FCT)", "image": "/images/nanete-sousa.jpg" },
-        { "name": "Pedro Leite (FCT) - coordenador", "image": "/images/pedro-leite.jpg" },
-        { "name": "Rui Munhá (FCT)", "image": "/images/rui-munha.jpg" },
-        { "name": "Susana Dias (FCT)", "image": "/images/susana-dias.jpg" }
+        { "name": "Bruno Béu (FCT)", "image": "/images/bruno-beu.jpg" },
+        { "name": "Sofia Azevedo (ANI)", "image": "/images/sofia-azevedo.jpg" }
       ]
     },
     {
       "people": [
-        { "name": "João Ferreira (ANI) - coordenador", "image": "/images/joao-lobo-ferreira.jpg" },
-        { "name": "António Bob Santos (FCT) - coordenador", "image": "/images/antonio-bob-santos.jpg" },
-        { "name": "Bruno Béu (FCT)", "image": "/images/bruno-beu.jpg" }
-      ]
-    },
-    {
-      "people": [
-        { "name": "Sofia Azevedo (ANI) - coordenadora", "image": "/images/sofia-azevedo.jpg" },
-        { "name": "Bruno Béu (FCT) - coordenador", "image": "/images/bruno-beu.jpg" },
-        { "name": "Madalena Alves (FCT)", "image": "/images/madalena-alves.jpg" }
-      ]
-    },
-    {
-      "people": [
-        { "name": "Marisa Borges (ANI) - coordenadora", "image": "/images/marisa-borges.jpg" },
-        { "name": "Daniel Carapau (FCT) - coordenador", "image": "/images/daniel-carapau.jpg" },
-        { "name": "João Nuno Ferreira (FCT)", "image": "/images/joao-nuno-ferreira.jpg" },
-        { "name": "Marta Abrantes (FCT)", "image": "/images/marta-abrantes.jpg" },
-        { "name": "Sílvia Figueiras (FCT)", "image": "/images/silvia-figueiras.jpg" }
+        { "name": "Daniel Carapau (FCT)", "image": "/images/daniel-carapau.jpg" },
+        { "name": "Marisa Borges (ANI)", "image": "/images/marisa-borges.jpg" }
       ]
     }
   ]
